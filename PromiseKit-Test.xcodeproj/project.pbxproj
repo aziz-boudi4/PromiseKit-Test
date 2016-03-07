@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F226DDF1C8A50680036B08E /* ContatctViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F226DDE1C8A50680036B08E /* ContatctViewController.swift */; };
 		8F9B46D71C89179900550083 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9B46D61C89179900550083 /* AppDelegate.swift */; };
 		8F9B46D91C89179900550083 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9B46D81C89179900550083 /* ViewController.swift */; };
 		8F9B46DC1C89179900550083 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F9B46DA1C89179900550083 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		4F3A4A42542348A5FF86AA5B /* Pods-PromiseKit-Test.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PromiseKit-Test.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PromiseKit-Test/Pods-PromiseKit-Test.debug.xcconfig"; sourceTree = "<group>"; };
+		8F226DDE1C8A50680036B08E /* ContatctViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContatctViewController.swift; sourceTree = "<group>"; };
 		8F7775FC1C89185A00F6A361 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		8F9B46D31C89179900550083 /* PromiseKit-Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PromiseKit-Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F9B46D61C89179900550083 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 		8F9B46CA1C89179900550083 = {
 			isa = PBXGroup;
 			children = (
+				8F226DDE1C8A50680036B08E /* ContatctViewController.swift */,
 				8F7775FC1C89185A00F6A361 /* MyPlayground.playground */,
 				8F9B46D51C89179900550083 /* PromiseKit-Test */,
 				8F9B46D41C89179900550083 /* Products */,
@@ -214,6 +217,7 @@
 			files = (
 				8F9B46D91C89179900550083 /* ViewController.swift in Sources */,
 				8F9B46D71C89179900550083 /* AppDelegate.swift in Sources */,
+				8F226DDF1C8A50680036B08E /* ContatctViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
